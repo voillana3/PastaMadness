@@ -1,3 +1,8 @@
+---
+title: Flours
+draft: false
+tags: dough
+---
 ## Durum Wheat
 A hard strain of wheat that is more commonly used in the dry, warm climate of southern Italy. It has higher protein compared to other wheats, so dough made with durum wheat is less flexible.  This makes durum flour better for dried pastas.
 

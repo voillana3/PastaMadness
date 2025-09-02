@@ -1,3 +1,8 @@
+---
+title: Liquids
+draft: false
+tags: dough
+---
 # Water
 Water and flour pasta doughs are usually used for shapes from southern Italy or the rural, mountain regions of central Italy. These shapes include cavatelli, orecchiette or busiate.  These pastas are usually made using durum wheat.
 
