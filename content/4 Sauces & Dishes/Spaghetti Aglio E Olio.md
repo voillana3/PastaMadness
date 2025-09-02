@@ -1,20 +1,16 @@
 ---
+title: Spaghetti Aglio e Olio
+draft: false
 tags:
   - recipe
-  - pasta
 source:
-dishtype:
-  - pasta
-  - main
-coreingredients:
-  - spaghetti
 ---
-# [[Spaghetti Aglio E Olio]]
+# [[Spaghetti Aglio e Olio]]
 
 ### Ingredients
-#ingredients 
+
 - [ ] Kosher salt
-- [ ] 1 pound dried spaghetti, such as DeCecco
+- [ ] 1 pound dried spaghetti
 - [ ] 1/3 cup good olive oil
 - [ ] 8 large garlic cloves, cut into thin slivers
 - [ ] 1/2 teaspoon crushed red pepper flakes

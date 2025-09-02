@@ -1,20 +1,14 @@
 ---
+tile: Lasagna
+draft: false
 tags:
   - recipe
-  - dinner
-  - beef
 source: disheswithdad.com
-dishtype:
-  - pasta
-  - main
-coreingredients:
-  - tomato
-  - ricotta
 ---
-# [[lasagna with homemade noodles]]
+# [[Lasagna]]
 
 ### Ingredients
-#ingredients 
+
 For the sauce
 - [ ] 1 pound sweet Italian sausage
 - [ ] 1 pound ground beef

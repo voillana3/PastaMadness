@@ -1,18 +1,14 @@
 ---
+title: Bolognese Ragu Sauce
+draft: false
 tags:
   - recipe
 source: Solo by Signe Johanssan
-dishtype:
-  - pasta
-  - sauce
-  - component
-coreingredients:
-  - tomato
 ---
-# [[Bolognese ragù sauce]]
+# [[Bolognese Ragù Sauce]]
 
 ### Ingredients
-#ingredients 
+
 - [ ] 25g lightly salted butter
 - [ ] 75g smoked pancetta or bacon, cubed
 - [ ] 1 white or red onion, finely chopped
@@ -26,6 +22,7 @@ coreingredients:
 - [ ] ½ dried oregano 1 bay leaf
 - [ ] sea salt and freshly ground black pepper
 ### Directions
+
 Melt the butter in a medium-large ovenproof casserole over a medium heat, add the pancetta or bacon and cook for a few minutes until starting to crisp up and the fat is rendered. Add the vegetables and cook for a further 5–10 minutes until they soften (the cooking time will depend on the size of your pan).
 
 Preheat the oven to 150°C/gas mark 1.
@@ -38,7 +35,7 @@ Season with a little salt and pepper (if the stock is already seasoned, hold bac
 
 Taste and adjust the seasoning if necessary. Eat with pasta of choice, and freeze whatever you don’t use in solo batches.
 
-**Variations:**
+### Variations
 
 – Milk is often added along with the stock and/or wine but I find the butter adds real depth of flavor and some delicious dairy fat to the sauce.
 

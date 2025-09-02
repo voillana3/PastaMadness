@@ -1,17 +1,13 @@
 ---
+title: Creamy Garlic Pasta
+draft: false
 tags:
   - recipe
-  - pasta
-  - dinner
-dishtype:
-  - main
-  - pasta
-coreingredients:
-  - spaghetti
 ---
 # [[Creamy Garlic Pasta]]
 
 ### Ingredients
+
 - [ ] 2 tsp olive oil
 - [ ] 4 cloves garlic, minced
 - [ ] 2 Tbsp butter

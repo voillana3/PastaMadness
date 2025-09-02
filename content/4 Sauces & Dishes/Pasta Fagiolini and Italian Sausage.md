@@ -1,20 +1,14 @@
 ---
+title: Pasta Fagliolini and Italian Sausage
+draft: false
 tags:
   - recipe
-  - pasta
-  - dinner
-  - sausage
 source: publix
-dishtype:
-  - pasta
-  - main
-coreingredients:
-  - pork
-  - sausage
 ---
 # [[Pasta Fagiolini and Italian Sausage]]
 
 ### Ingredients
+
 - [ ] 8 oz farfalle (or penne) pasta
 - [ ] 1 (16-oz) green beans with almonds cook-in-bag
 - [ ] 1 lb mild italian sausage, casing removed

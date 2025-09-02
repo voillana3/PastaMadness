@@ -1,17 +1,13 @@
 ---
+title: Sujaebi Korean Hand Noodle Soup
+draft: false
 tags:
   - recipe
-  - soup
-source:
-dishtype:
-  - noodles
-  - soup
-  - main
 ---
 # [[Recipe]]
 
 ### Ingredients
-#ingredients 
+
 **Hand Noodles**
 - [ ] Flour (5cups) 
 - [ ] Salt Water (⅔ cups Water +1teaspoon water)

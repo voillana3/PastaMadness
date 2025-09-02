@@ -1,18 +1,18 @@
 ---
+title: Italian Pasta Recipes
+draft: false
+source: friend's pasta class in italy
 tags:
   - recipe
-  - pasta
-dishtype:
-  - pasta
-  - component
 ---
-# [[Italian Pasta]]
+# [[Italian Pasta Recipes]]
 
 - [ ] Each Person: 1 egg and 100g flour
 
 ---
 
 ### Directions
+
 Place the flour on a board or in a bowl.  Make a well in the center and crack the eggs into it.  Beach the eggs with a fork until smooth.
 
 Using the tips of your fingers, mix the eggs with the flour, incorporating a little at a time, until everything is combined. 
@@ -104,7 +104,7 @@ Beslamella
 Salt & Pepper
 3 Tbsp extra virgin olive oil
 
-Melt 150g of sweet diced pancetta over a gentle flame in a saucepan.  Add the chopped celery, carrot and onion and fry, adding 3 Tbsp of oil.  Add the ground beef and brown it, then blend it with half a glass of white wine and let it evaporate.  Continue cooking stirring gently, then add tomato sauce and simmer over a low heat for about 2 hours, covering the saucepan with a lid.  Add, if the sauce restores too much, a little water.  Towards the end of cooking, taste the sauce; adjusst salt and pepper and, if necessary, add a few tablespoons of milk to correct the acidity of the tomato.  Meanwhile, cook the pasta in plenty of salted water.  Complete with grated parmesan and serve.
+Melt 150g of sweet diced pancetta over a gentle flame in a saucepan.  Add the chopped celery, carrot and onion and fry, adding 3 Tbsp of oil.  Add the ground beef and brown it, then blend it with half a glass of white wine and let it evaporate.  Continue cooking stirring gently, then add tomato sauce and simmer over a low heat for about 2 hours, covering the saucepan with a lid.  Add, if the sauce restores too much, a little water.  Towards the end of cooking, taste the sauce; adjust salt and pepper and, if necessary, add a few tablespoons of milk to correct the acidity of the tomato.  Meanwhile, cook the pasta in plenty of salted water.  Complete with grated parmesan and serve.
 
 
 ![[doughFolding.png]]

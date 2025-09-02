@@ -1,15 +1,13 @@
 ---
+title: Kitchenaid Pasta
+draft: false
 tags:
   - recipe
-source:
-dishtype:
-  - pasta
-  - component
 ---
-# [[Kitchenaid pasta]]
+# [[Kitchenaid Pasta]]
 
 ### Ingredients
-#ingredients 
+ 
 - [ ] 
 ### Directions
 

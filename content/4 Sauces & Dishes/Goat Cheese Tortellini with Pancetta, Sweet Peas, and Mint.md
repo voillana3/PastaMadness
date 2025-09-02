@@ -1,21 +1,14 @@
 ---
+title: Goat Cheese Tortellini with Pancetta, Sweet Peas, and Mint
+draft: false
 tags:
   - recipe
-source:
-dishtype:
-  - pasta
-  - main
-coreingredients:
-  - tortellini
-  - goat cheese
-  - pea
-  - pancetta
-  - mint
+source: pasta class
 ---
 # [[Goat Cheese Tortellini with Pancetta, Sweet Peas, and Mint]]
 Fresh tortellini seem complicated to make, but by following a simple folding procedure and spending a little extra time, you can have delicious fresh tortellini! If you want to stock up, freeze uncooked tortellini in a single layer, then transfer to sealable bags for long-term storage.
 ### Ingredients
-#ingredients 
+
 **Filling:**
 - [ ] 1/2 cup whole-milk ricotta cheese, strained
 - [ ] 1/4 cup fresh goat cheese

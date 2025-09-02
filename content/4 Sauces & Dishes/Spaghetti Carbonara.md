@@ -1,18 +1,14 @@
 ---
+title: Spaghetti Carbonara
+draft: false
 tags:
   - recipe
 source: Solo by Signe Johanssan
-dishtype:
-  - main
-  - pasta
-coreingredients:
-  - spaghetti
-  - eggs
 ---
 # [[Spaghetti Carbonara]]
 
 ### Ingredients
-#ingredients 
+
 - [ ] vegetable or light olive oil, for frying
 - [ ] 50g smoked or unsmoked pancetta (or guanciale if you can source it), cubed 100-125g spaghetti
 - [ ] 1 garlic clove, thinly sliced
@@ -22,6 +18,7 @@ coreingredients:
 - [ ] sea salt and freshly ground
 - [ ] black pepper
 ### Directions
+
 Bring a pan of lightly salted water to the boil.
 
 Heat a little oil in a skillet or frying pan over a medium heat, add the pancetta and fry for a few minutes until golden and crisp around the edges. Add the spaghetti to the boiling water.

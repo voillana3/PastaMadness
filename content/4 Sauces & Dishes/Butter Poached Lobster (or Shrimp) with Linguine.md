@@ -1,21 +1,13 @@
 ---
+title: Butter Poached Lobster (or Shrimp) with Linguine
+draft: false
 tags:
   - recipe
-  - dinner
-  - lobster
-  - shrimp
-  - pasta
-dishtype:
-  - main
-  - pasta
-coreingredients:
-  - lobster
-  - shrimp
-  - linguine
 ---
 # [[Butter Poached Lobster (or Shrimp) with Linguine]]
 
 ### Ingredients
+
 - [ ] 6 ounces linguine pasta, cooked al dente, drain, do not rinse
 - [ ] leek
 - [ ] 1/4 cup unsalted butter

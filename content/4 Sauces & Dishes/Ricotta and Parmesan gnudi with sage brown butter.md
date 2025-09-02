@@ -1,16 +1,14 @@
 ---
+title: Ricotta and Parmesan Gnudi with Sage Brown Butter
+draft: false
 tags:
   - recipe
-source:
-dishtype:
-  - pasta
-coreingredients:
-  - ricotta
+source: Solo by Signe Johanssan
 ---
-# [[Ricotta and Parmesan gnudi with sage brown butter]]
+# [[Ricotta and Parmesan Gnudi with Sage Brown Butter]]
 
 ### Ingredients
-#ingredients 
+
 - [ ] 250g ricotta
 - [ ] 50g finely grated Parmesan cheese, plus extra to serve (optional)
 - [ ] a tiny pinch of freshly grated nutmeg
@@ -20,6 +18,7 @@ coreingredients:
 - [ ] zest of ¼ unwaxed lemon
 - [ ] sea salt and freshly ground black pepper
 ### Directions
+
 Beat the ricotta and Parmesan together in a bowl. Gently season with the nutmeg (too much and the gnudi take on a slightly medicinal flavor) and a good crack of pepper. Taste the mixture before adding salt.
 
 Scatter a layer of semolina on a tray and fill a separate bowl with semolina, to a depth of about 5cm. Using two spoons, create little spheres from the ricotta and Parmesan mixture – they don’t have to be perfectly shaped – dropping each one carefully into the bowl of semolina and rolling them around so they are completely coated. Place each gnudi on the tray, leaving space between each one so they don’t stick together.

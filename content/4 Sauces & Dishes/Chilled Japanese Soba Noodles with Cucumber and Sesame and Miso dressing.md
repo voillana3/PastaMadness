@@ -1,18 +1,14 @@
 ---
+title: Chilled Japanese Soba Noodles with Cucumber and a Sesame and Miso Dressing
+draft: false
 tags:
   - recipe
 source: Solo by Signe Johanssan
-dishtype:
-  - noodles
-  - main
-coreingredients:
-  - cucumber
-  - soba noodle
 ---
-# [[Chilled Japanese soba noodles with cucumber and a sesame and miso dressing]]
+# [[Chilled Japanese Soba Noodles with Cucumber and Sesame and Miso dressing]]
 
 ### Ingredients
-#ingredients 
+
 - [ ] 100g soba noodles (100% buckwheat are best for this)
 - [ ] ½ cucumber, cut into ribbons with a vegetable peeler or into small cubes for a contrast with the soba
 - [ ] 2 spring onions, thinly sliced ice cubes, for chilling the noodles

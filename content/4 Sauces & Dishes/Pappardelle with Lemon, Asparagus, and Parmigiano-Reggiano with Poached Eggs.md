@@ -1,19 +1,14 @@
 ---
+title: Pappardelle with Lemon, Asparagus, and Parmigiano-Reggiano with Poached Eggs
+draft: false
 tags:
   - recipe
-source:
-dishtype:
-  - pasta
-  - main
-coreingredients:
-  - pappardelle
-  - asparagus
-  - eggs
+source: pasta class
 ---
 # [[Pappardelle with Lemon, Asparagus, and Parmigiano-Reggiano with Poached Eggs]]
 Pappardelle are hand-cut large pasta ribbons traditionally served with creamy or rustic sauces. The pasta’s name comes from the Italian verb ‘pappare’ which means “to gobble up.” Here is a restaurant trick to make poached eggs in advance. Simply poach your eggs just until the whites are barely set and place directly into an ice bath to stop the cooking process. You can use the same bowl of ice water as for asparagus. When you're ready to use the eggs, warm them in a simmering pot of water for about a minute and they’re ready to serve. Eggs can be poached and chilled up to 2 days before serving.
 ### Ingredients
-#ingredients 
+
 - [ ] 1 bunch thin asparagus, trimmed and cut crosswise at a 45° angle into 1-inch pieces
 - [ ] 1 recipe Fresh Pasta Dough, rolled into thin sheets (2n d to the last thinnest setting on pasta machine), hand-cut into pappardelle, dusted with semolina flour, and covered with plastic wrap
 - [ ] 1/2 teaspoon kosher salt, plus more for seasoning

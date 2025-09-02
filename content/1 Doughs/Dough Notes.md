@@ -13,6 +13,7 @@ tags: dough
 | **Liquid**<br>Water, eggs, wine, milk, vegetable purees                     | Makes a dough elastic and springy; can impact color; water from vegetables can make egg-based doughs softer, while vegetable fibers can make water-based doughs drier |
 | **Fat**<br>Egg yolks, olive and other oils, butter, shortening, lard, cream | Makes a dough delicate and tender; a high concentration of fact can make a dough firmer in its raw state (particularly egg yolks and butter)                          |
 | **Salt**                                                                    | Tightens a dough by strengthening its gluten.  Useful in                                                                                                              |
+
 Pasta dough should be pliable and smooth but also have resilience and spring.  When you press it with your finger, it should rebound slightly.  When making dough, you can make adjustments as needed based on the texture of the dough.  If it is sticky, it needs more flour dusted to the outside and worked into it.  If it is dry and tough, then add a slight amount of flour.  I have found that wetting my hands and then kneading it helps to work it into the dough.  Rewet hands as needed based on how the dough responds.  While the recipes have precise weights and measurements, adjustments may need to be made based on weather/humidity or some differences in egg sizes.
 
 | Dough Type              | Suggested Rest Time                                                                     |
@@ -25,7 +26,7 @@ Pasta dough should be pliable and smooth but also have resilience and spring.  W
 ## Extruder Dough
 400g semola rimacinata
 100g coarse semolina
-180g water to start and about 4 more tbs once it started coming together in the mixer
+180g water to start and about 4 more tbsp once it started coming together in the mixer
 
 ## Durum Wheat & Water Pasta Dough
 400g semola rimacinata or semolina flour
