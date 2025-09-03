@@ -10,25 +10,31 @@ There are a lot of different pastas that can be made using minimal tools.  Some 
 Besides your hands, a metal bench scraper works well when combining the dough on the counter before kneading it.  It also helps immensely with cleaning off your work space, as you can use it to just scrape off the dried dough and flour from the counter and into the trash.  You can also use it to cut your ball of dough into smaller portions. I prefer a bench scraper that has markings for inch and centimeter measurements along the blade.
 
 ![[BenchScraper.png]]
+[[BenchScraper.png]]
 
 # Corzetti Stamp
 These stamps are beautiful and are only used when making corzetti pasta, which is a circular, flat disk of pasta.  The stamps give an embossed design to these disks.  Unless you intend to make corzetti pasta, you do not need a stamp.
 
 ![[CorzettiStamp.png]]
+[[CorzettiStamp.png]]
+
 https://romagnolipastatools.com/corzetti/
 
 # Digital Kitchen Scale
 I have seen videos on youtube of nonnas making pasta dough without measuring any flour.  I have made pasta a lot but am not at that level of mastery yet, and likely neither are you.  A digital scale is very helpful when measuring flour for non-pasta recipes as well.  You can also use it to weigh your drugs.
 
 ![[digitalKitchenScale.png]]
+[[digitalKitchenScale.png]]
 # Extruder
 Some pasta shapes can only be achieved using an extruder. This tool pushed down through a die and then the pasta is cut as it comes out to length. I use a smaller sized extruder from KitchenAid that attaches to the mixer.  Larger extruders can be purchased and would be a good investment if you enjoy making extruded pasta shapes.  More dies can be purchased online.  This website has a lot of options and also explains the difference between them: https://pastidea.com/en/product-category/kitchenaid-pasta-machine-marcato-pasta-machine/
 
 ![[extruder.png]]
+[[extruder.png]]
 # Ferretto
 This is a long metal rod using for making busiate and other hollow pasta shapes.  This is a more niche tool.  I have a set that I got from q.b. cucina, but I have also made busiate pasta using a knitting needle.  A wooden skewer is another reasonable replacement for a ferretto.
 
 ![[Ferretto.png]]
+[[Ferretto.png]]
 
 https://qbcucina.com/products/brass-pasta-ferretto
 
@@ -36,28 +42,34 @@ https://qbcucina.com/products/brass-pasta-ferretto
 This is a wooden board with ridges (and sometimes other shapes or tetures) that are used for making gnocchi, cavatelli, capunti, malloreddus and spizzulus.  These are relatively inexpensive, and I recommend getting a board that comes with a small dowel, which can be used when making garganelli.
 
 ![[GnocchiBoard.png]]
+[[GnocchiBoard.png]]
 
 # Pasta Rollers
 I use the KitchenAid pasta rollers.  You can also get a pasta machine, such as a Marcato Atlas. A pasta roller of some sort is highly recommended as it allows the dough to effortlessly be rolled very thinly and precisely.  Rollers can be electric or manual.  The KitchenAid attachments are very beginner friendly.  If you don't already have a KitchenAid mixer, then I would recommend it as it is an absolute workhorse in the kitchen.  There's also attachments for making ice cream, slicing vegetables, grinding meat, processing food, extruding pasta, milling grain into flour.  KitchenAid does not sponsor me, but they should for how much I use and enjoy my mixer.
 
 ![[KitchenAidPastaRollers.png]]
+[[KitchenAidPastaRollers.png]]
 
 # Pasta Wheel
 A pasta wheel is like a small pizza cutter, but for cutting pasta.  They come with straight and wavy/fluted blades. You can use a paring knife, but a pasta wheel makes trimming the edges around stuffed pasta, such as ravioli, much easier
 
 ![[PastaWheel.png]]
+[[PastaWheel.png]]
 
 # Potato Ricer
 A potato ricer can be used to crush cooked potato to produce a smooth texture. These can be used to make smooth mashed potatoes, as well as to prep potatoes for use in making gnocchi.
 
 ![[PotatoRicer.png]]
+[[PotatoRicer.png]]
 
 # Rolling pin
 For some hand formed pasta, where you want to roll the dough out thickly, the rolling pin works marvelously. I use my pastry rolling pin.  If you have space in your kitchen, you can also get the italian style rolling pin (matarello) which is a long and wide rod that does not have any handles.
 
 ![[matarello.png]]
+[[matarello.png]]
 
 # Spider Strainer
 A spider strainer makes it easy to retrieve pasta from a pot of boiling water as well as to gently put a nest of long noodles into the pot.  Its name comes from the spiderweb design of the wire.  I prefer this tool over colander because a colander requires dumping all the pasta water out.  Several sauces require using the starchy pasta water and sometimes I boil different batches of  noodles.  A spider strainer allows me to keep my pasta water in the pot.
 
 ![[SpiderStrainer.png]]
+[[SpiderStrainer.png]]
