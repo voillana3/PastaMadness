@@ -12,15 +12,15 @@ Since taking a cooking class with my boyfriend where we learned to make fresh pa
 
 This blog is where I hold onto my thin grip of reality and catalog my notes on pasta making.  Long noodles, short noodles, hand shaped, stuffed.  Gnocchi made with potatoes, gnocchi made with ricotta, gnocchi made with plantains.
 
-[[Tools]] for making pasta
+[[../../content/0 Basics/Tools]] for making pasta
 
 ## Doughs
 
 [[Dough Notes]]
-[[Flours]]
-[[Herbs, Spices and Other Additions]]
-[[Liquids]]
-[[Making the Dough]]
+[[../../content/0 Basics/Flours]]
+[[../../content/0 Basics/Herbs, Spices and Other Additions]]
+[[../../content/0 Basics/Liquids]]
+[[../../content/0 Basics/Making the Dough]]
 
 ## Shapes
 

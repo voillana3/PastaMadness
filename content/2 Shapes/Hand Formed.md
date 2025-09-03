@@ -8,7 +8,7 @@ tags: shapes
 **Doughs:**
 **Sauces:**
 
-![[Pici.png]]
+![[../assets/Pici.png]]
 **What they are**
 Rustic, hand-rolled spaghetti from Siena, but also found elsewhere in Tuscany by a dozen other names. Pici are springy and toothsome—made with just flour (usually 00, but sometimes semola and sometimes both), water, olive oil, and a little elbow grease—more akin to Japanese udon than the spaghetti from the box. This one’s for the kids, too; the soft dough and long noodles welcome little helping hands.
 
@@ -33,13 +33,13 @@ COOK OR STORE THE PASTA If cooking the pasta shortly after shaping, coil the fin
 
 Cook the pici until tender but with some bite, 3 to 5 minutes, depending on their thickness.
 
-![[PiciInstructions.png]] ![[PiciInstructions2.png]]
+![[../assets/PiciInstructions.png]] ![[../assets/PiciInstructions2.png]]
 
 ## Lagane
 **Doughs:**
 **Sauces:**
 
-![[Lagane.png]]
+![[../assets/Lagane.png]]
 
 **What they are**
 An ancient pasta, perhaps the most ancient, even referenced by the Roman poet Horace himself. Wide and rustic, lagane have bite, which makes them a welcome accompaniment to thick, hearty sauces and soups. Durum wheat and water-based, you’ll find them in the south, particularly around Calabria, Basilicata, Puglia, and Campania. Their robustness means they’re easy to roll with a pin, though you can, of course, use a pasta machine, too.
@@ -93,7 +93,7 @@ Arrange the finished strozzapreti in a single layer on the prepared sheet pan. R
 
 COOK OR STORE THE PASTA Cook the strozzapreti until tender but with some bite, 3 to 5 minutes, depending on their thickness. 
 
-![[Strozzapreti.png]]
+![[../assets/Strozzapreti.png]]
 
 ## Corzetti della Valpolcevera
 **Doughs:**
@@ -127,7 +127,7 @@ Arrange the finished corzetti in a single layer on the prepared sheet pan. Repea
 
 COOK OR STORE THE PASTA Cook the corzetti until tender but with some bite, 3 to 5 minutes, depending on size and drying time.
 
-![[CorzettiDellaValpolcevera.png]]
+![[../assets/CorzettiDellaValpolcevera.png]]
 
 ## Cavatelli
 **Doughs:**
@@ -161,9 +161,9 @@ Arrange the finished cavatelli in a single layer on the prepared sheet pan. Repe
 
 COOK OR STORE THE PASTA Cook the cavatelli until tender but with some bite, 3 to 5 minutes, depending on their thickness and drying time.
 
-![[Cavatelli.png]]
+![[../assets/Cavatelli.png]]
 
-![[CavatelliGnocchiBoard.png]]
+![[../assets/CavatelliGnocchiBoard.png]]
 
 ## Capunti
 
@@ -191,7 +191,7 @@ Arrange the finished capunti in a single layer on the prepared sheet pan. Repeat
 
 COOK OR STORE THE PASTA Cook the capunti until tender but with some bite, 3 to 5 minutes, depending on their thickness and drying time.
 
-![[Capunti.png]]
+![[../assets/Capunti.png]]
 
 ## Malloreddus
 

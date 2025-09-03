@@ -10,11 +10,11 @@ Other things to consider when making a dough are the amounts and sources of fat 
 
 For more information on each ingredient, please refer to the other notes
 
-[[Flours]]
+[[../0 Basics/Flours]]
 
-[[Liquids]]
+[[../0 Basics/Liquids]]
 
-[[Herbs, Spices and Other Additions]]
+[[../0 Basics/Herbs, Spices and Other Additions]]
 
 | Ingredient                                                                  | What it does                                                                                                                                                          |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ For more information on each ingredient, please refer to the other notes
 | **Fat**<br>Egg yolks, olive and other oils, butter, shortening, lard, cream | Makes a dough delicate and tender; a high concentration of fact can make a dough firmer in its raw state (particularly egg yolks and butter)                          |
 | **Salt**                                                                    | Tightens a dough by strengthening its gluten                                                                                                                          |
 
-This video [[Making the Dough]] by Epicurious is a thorough video on how to combine the ingredients and knead the dough together.  You can tell how the texture changes while kneading.  You will knead for about 5-10 minutes, but do not worry about over-kneading.  While over-kneading can be an issue when baking bread and cookies, it is not a concern for making pasta.
+This video [[../0 Basics/Making the Dough]] by Epicurious is a thorough video on how to combine the ingredients and knead the dough together.  You can tell how the texture changes while kneading.  You will knead for about 5-10 minutes, but do not worry about over-kneading.  While over-kneading can be an issue when baking bread and cookies, it is not a concern for making pasta.
 
 Pasta dough should be pliable and smooth but also have resilience and spring.  When you press it with your finger, it should rebound slightly.  When making dough, you can make adjustments as needed based on the texture of the dough.  If it is sticky, it needs more flour dusted to the outside and worked into it.  If it is dry and tough, then add a slight amount of flour.  I have found that wetting my hands and then kneading it helps to work it into the dough.  Rewet hands as needed based on how the dough responds.  While the recipes have precise weights and measurements, adjustments may need to be made based on weather/humidity or some differences in egg sizes.
 
@@ -38,45 +38,10 @@ Once the dough has been sufficiently kneaded, it needs to rest (use the table be
 | Soft Wheat and Water    | 30 minutes to 1 hour                                                                    |
 | Egg                     | 30 minutes or up to 2 hours if rolling by machine or at least 1 hour if rolling by hand |
 | Gluten-free and gnocchi | None                                                                                    |
-# Dough Recipes
 
-Below is a long collection of different dough recipes.  Certain doughs work better or are traditionally paired with certain shapes and sauces.  These notes aim to include recommendations for these pairings.
-## Extruder Dough
 
-**Shapes:** Only extruded shapes
-**Sauces:** Any
-400g semola rimacinata
-100g coarse semolina
-180g water to start and about 4 more tbsp once it started coming together in the mixer
+ Certain doughs work better or are traditionally paired with certain shapes and sauces.  The dough recipes found in the Doughs section aims to include recommendations for these pairings.
 
-This dough will be crumbly as it was combined in the mixer rather than hand kneaded.  Allow it to be crumbly.  While other doughs will need to be rolled into a ball for shaping and rolling flat, the extruder dough will be squished together by the machine so you do not need to do the squishing. Crumbly dough will more easily be moved along by the machine and not be squished until the last moment when it actually extruded out.  If you squish it yourself first, it will more easily plug up the extruder.
-
-## Durum Wheat & Water Pasta Dough
-
-**Shapes:** [[Hand Formed]]
-400g semola rimacinata or semolina flour
-200 mL (3/4 cup plus 4 teaspoons) warm or tepid water
-
-### Orecchiette Dough
-
-**Shapes:** Orecchiette
-400g semola rimacinata or semolina flour
-190 mL (3/4 cup plus 1 Tablespoon) warm or tepid water 
-
-This dough will be slightly drier and will yield a better texture and definition when making orecchiette
-
-## Soft Wheat and Water Pasta Dough
-
-**Shapes:** 
-400g 00 or all-purpose flour
-200 mL (3/4 cup plus 4 teaspoons) warm or tepid water
-
-### Pici Dough
-
-**Shapes:** Pici
-400g 00 or all-purpose flour
-200 mL (3/4 cup plus 4 teaspoons) warm or tepid water
-15 mL (1 Tablespoon) of extra-virgin olive oil
 
 ### Corzetti della Valpolcevera Dough
 
