@@ -19,5 +19,7 @@ APF is usually a mixture of hard and soft wheat flours, but it has similar prote
 ### Other Flours
 
 **Gluten Free Flour**  I recommend getting gluten free flour without xanthum gum in it, as my recipe has the xanthum gum measured separately and added in. More experimenting to be done on this front.
+
 **Whole Grain Wheat Flour** Whole grain is healthier, but the added fat from milling the flour when the germ causes the flour to go bad sooner, so be aware of its expiration date.  Whole grain is best used when mixed with APF.  If you want to use a full whole grain flour, then I recommend making sure the dough is hydrated enough and stick to shapes that are thin.  
+
 **Buckweat, Chestnut, Einkhorn, Spelt, Rye, Chickpea, **
