@@ -14,12 +14,18 @@ This blog is where I hold onto my thin grip of reality and catalog my notes on p
 
 [[Tools]] for making pasta
 
+
 ## Doughs
 
+
 [[Dough Notes]]
+
 [[Flours]]
+
 [[Herbs, Spices and Other Additions]]
+
 [[Liquids]]
+
 [[Making the Dough]]
 
 ## Shapes
