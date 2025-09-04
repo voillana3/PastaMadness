@@ -1,7 +1,7 @@
 ---
-title: Durum Wheat & Water Pasta Dough
+title: Durum Wheat & Water Dough
 draft: false
-tags: dough
+tags: doughs
 ---
 
 **Shapes:** [[Hand Formed]]

@@ -1,7 +1,7 @@
 ---
 title: Tools
 draft: false
-tags: notes
+tags: basics
 ---
 
 There are a lot of different pastas that can be made using minimal tools.  Some pasta shapes do require special tools, but a lot of tools are also just there to make the job easier.  A rolling pin can be used, but the pasta rollers make the task go by much quicker.  I could use a fork for gnocchi, but a gnocchi board is inexpensive, fits easily in my drawer-of-miscellaneous-kitchen-tools and makes for nicer ridges.  You do not need all of these tools, and can slowly purchase them as you need them.
@@ -27,6 +27,9 @@ Some pasta shapes can only be achieved using an extruder. This tool pushed down 
 
 ![[assets/extruder.png]]
 # Ferretto
+
+^2764a2
+
 This is a long metal rod using for making busiate and other hollow pasta shapes.  This is a more niche tool.  I have a set that I got from q.b. cucina, but I have also made busiate pasta using a knitting needle.  A wooden skewer is another reasonable replacement for a ferretto.
 
 ![[assets/Ferretto.png]]

@@ -1,7 +1,7 @@
 ---
 title: Orecchiette Dough
 draft: false
-tags: dough
+tags: doughs
 ---
 
 **Shapes:** Orecchiette

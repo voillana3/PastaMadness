@@ -1,7 +1,7 @@
 ---
 title: Pureés for Colorful Dough
 draft: false
-tags: dough
+tags: doughs
 ---
 Any pureés leftover can be stored and frozen in an airtight container.
 ## Green Vegetable Pureé

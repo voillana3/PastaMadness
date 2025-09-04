@@ -1,7 +1,7 @@
 ---
 title: Extruder Dough
 draft: false
-tags: dough
+tags: doughs
 ---
 **Shapes:** Only extruded shapes
 **Sauces:** Any

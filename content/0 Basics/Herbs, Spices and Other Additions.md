@@ -1,7 +1,9 @@
 ---
 title: Herbs, Spices, and Other Additions
 draft: false
-tags: dough
+tags: 
+  - doughs
+  - basics
 ---
 Herbs can be added for flavor either by finely dicing them to include in the dough, or by laminating them between sheets of pasta dough.  Herbs like parsley, dill, basil work great for this. 
 

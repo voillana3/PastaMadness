@@ -1,7 +1,7 @@
 ---
 title: Pici Dough
 draft: false
-tags:
+tags: doughs
 ---
 
 **Shapes:** Pici

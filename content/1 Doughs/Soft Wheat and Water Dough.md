@@ -1,7 +1,7 @@
 ---
-title: Soft Wheat and Water Pasta Dough
+title: Soft Wheat and Water Dough
 draft: false
-tags:
+tags: doughs
 ---
 
 **Shapes:** 
