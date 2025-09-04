@@ -11,11 +11,6 @@ tags:
   - [Potato Gnocchi Dough](Potato%20Gnocchi%20Dough.md)
 
 **Sauces:**
-
-SERVES 4 to 6
-
-Okay, not a lasagne, but similar in spirit and too good to pass up.
-
 ## Ingredients
 
 - [ ] 1 batch Potato Gnocchi

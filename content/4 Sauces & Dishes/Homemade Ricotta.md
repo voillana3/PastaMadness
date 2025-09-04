@@ -1,7 +1,9 @@
 ---
 title: Homemade Ricotta
 draft: false
+source: Pasta Every Day
 tags: 
+  - recipe
 ---
 Avoid ultra-pasteurized milk (pasteurized is fine) since it is designed to separate with difficulty and yields much less cheese.
 
