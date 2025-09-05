@@ -1,37 +1,18 @@
 ---
 title: Pasta Aspirations
-draft: false
+draft: true
 tags: extra
 ---
 
+Items I want to add to this:
 dove pasta/"chicken" noodle soup
-
-lasagna (traditional) https://disheswithdad.com/lasagna-with-homemade-noodles/
 
 lasagna (burrata and heirloom tomato)
 
-butter and sage sauce
-
-pepperoni and mozzarella ravioli
-
-farfalle (bowies)
-
-gnocchi with brown butter and sage sauce
-
 FIG AND ONION CARAMELLE WITH GORGONZOLA DOLCE FONDUTA
 
-Parsley or Basil dough
+alla zazzona
 
-Pistachio fettuccine with artichokes
+cacio e pepe
 
-al limone sauce
-
-aglio e olio
-
-butter tomato sauce
-
-pesto
-
-vodka sauce
-
-sunday sauce
+write up note about details and info on adding cheese to heat/sauce without it separating

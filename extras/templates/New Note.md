@@ -10,6 +10,7 @@ if (title.startsWith("Untitled")) {
 ---
 title: <% newTitle %>
 draft: false
+source: 
 tags:
   - 
 ---

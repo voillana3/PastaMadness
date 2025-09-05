@@ -1,5 +1,5 @@
 ---
-title: Long
+title: Hand Cut (Pappardelle, Tagliotelle, Fettuccine, and Tagliolini)
 aliases:
   - Hand Cut
   - Pappardelle
