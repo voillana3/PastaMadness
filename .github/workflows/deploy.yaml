@@ -6,7 +6,7 @@ on:
       - v4
  
 env:
-  THEME_NAME: sad-machine-druid
+  THEME_NAME: aura
 
 permissions:
   contents: read
