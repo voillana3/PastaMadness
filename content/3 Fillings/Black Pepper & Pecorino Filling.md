@@ -18,5 +18,7 @@ tags:
 
 ## Directions
 1. In a small dry skillet over medium heat, add the peppercorns and cook, shaking the pan often, until fragrant, about 3 minutes. Transfer to a spice grinder or mortar and pestle and crush until semi-fine.
+   <br>
 2. Combine the pepper, ricotta, and Pecorino in the bowl of a food processor or mixing bowl. Pulse or mix vigorously until smooth and creamy. Add more Pecorino and/or pepper if you’d like; season to taste with salt.
+   <br>
 3. Transfer the filling to a bowl or piping bag and refrigerate until ready to use.

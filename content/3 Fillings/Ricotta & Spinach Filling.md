@@ -21,7 +21,11 @@ tags: fillings
 
 ## Directions
 1. Sauté, blanch, or steam the spinach until vibrant and wilted. Season to taste with salt and pepper. 
+   <br>
 2. Transfer to a clean, tightly woven dishcloth and let cool, then wring out as much moisture as possible. 
+   <br>
 3. Either finely chop the spinach and mix in a bowl with the cheeses, or add everything to a food processor and pulse in short bursts until the spinach is chopped but not puréed. 
-4. Season generously with salt, pepper, and freshly grated nutmeg. 
+   <br>
+4. Season generously with salt, pepper, and freshly grated nutmeg.
+<br>
 5. Transfer the filling to a bowl or piping bag and refrigerate until ready to use.
