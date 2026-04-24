@@ -1,3 +1,9 @@
 @use "./base.scss";
+.page-listing div.section {
+    grid-template-columns: 3fr 1fr;
 
+    p.meta:has(> time) {
+        display: none;
+    }
+}
 // put your custom CSS here!
