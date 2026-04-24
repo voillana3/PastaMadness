@@ -259,7 +259,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: material-gruvbox
+      mode: both
 layout:
   groups:
     toolbar:
