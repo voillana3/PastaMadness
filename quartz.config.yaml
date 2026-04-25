@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: PastaMadness
   ignorePatterns:
@@ -71,6 +71,8 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
+    collapseByDefault: false
+    showByDefault: true
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -182,6 +184,12 @@ plugins:
     layout:
       position: left
       priority: 10
+  - source: github:quartz-community/reader-mode
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
