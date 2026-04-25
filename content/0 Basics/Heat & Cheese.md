@@ -1,8 +1,0 @@
----
-title: Heat & Cheese
-draft: true
-tags:
-  - basics
----
-
-This note will be about the particularities of adding cheese to a hot pan or pasta for a sauce, such as carbonara or cacio e pepe

@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Pasta Madness
-  pageTitleSuffix: "website of pasta recipes"
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: pastamadness.neocities.org
+  baseUrl: PastaMadness
   ignorePatterns:
     - private
     - templates
@@ -134,6 +134,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/content-page
     enabled: true
+    options: {}
   - source: github:quartz-community/folder-page
     enabled: true
   - source: github:quartz-community/tag-page
@@ -186,12 +187,6 @@ plugins:
     layout:
       position: left
       priority: 30
-      group: toolbar
-  - source: github:quartz-community/reader-mode
-    enabled: false
-    layout:
-      position: left
-      priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
@@ -266,13 +261,9 @@ layout:
         right: []
     content: {}
     folder:
-      exclude:
-        - reader-mode
       positions:
         right: []
     tag:
-      exclude:
-        - reader-mode
       positions:
         right: []
     canvas: {}
