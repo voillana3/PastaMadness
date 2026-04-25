@@ -3,7 +3,7 @@ title: Pici
 draft: false
 tags:
   - shapes
-  - hand formed
+  - handformed
 ---
 
 **Doughs:**

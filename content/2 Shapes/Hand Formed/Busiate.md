@@ -2,8 +2,8 @@
 title: Busiate
 draft: false
 tags:
-  - hand formed
   - shapes
+  - handformed
 ---
 
 **Doughs:**

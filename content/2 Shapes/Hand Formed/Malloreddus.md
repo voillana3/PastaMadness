@@ -2,8 +2,8 @@
 title: Malloreddus
 draft: false
 tags:
-  - hand formed
   - shapes
+  - handformed
 ---
 **Doughs:**
 [Saffron Dough](Saffron%20Dough.md) 

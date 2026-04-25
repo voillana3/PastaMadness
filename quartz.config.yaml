@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Pasta Madness
+  pageTitleSuffix: "website of pasta recipes"
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: PastaMadness
+  baseUrl: pastamadness.neocities.org
   ignorePatterns:
     - private
     - templates

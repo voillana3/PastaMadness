@@ -2,8 +2,8 @@
 title: Foglie d'ulivo
 draft: false
 tags:
-  - hand formed
   - shapes
+  - handformed
 ---
 
 **Doughs:**

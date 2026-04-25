@@ -1,16 +1,16 @@
 ---
 title: Hand Cut (Pappardelle, Tagliotelle, Fettuccine, and Tagliolini)
 aliases:
-  - Hand Cut
   - Pappardelle
   - Tagliatelle
   - Fettuccine
   - Tagliolini
+  - Hand Cut
 draft: false
 tags:
   - long
-  - hand cut
   - shapes
+  - handcut
 ---
 
 **Doughs:**

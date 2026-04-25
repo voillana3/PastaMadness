@@ -2,8 +2,8 @@
 title: Lagane
 draft: false
 tags:
-  - hand formed
   - shapes
+  - handformed
 ---
 
 **Doughs:**

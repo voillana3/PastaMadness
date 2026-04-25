@@ -2,7 +2,7 @@
 title: Corzetti della Valpolcevera
 draft: false
 tags:
-  - hand formed
+  - handformed
   - shapes
 ---
 
