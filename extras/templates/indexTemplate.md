@@ -1,6 +1,5 @@
 ---
 title: The Pasta Madness
-draft: false
 tags:
 recurringTemplate: true
 recurringTemplateName: indexTemplate
@@ -24,7 +23,7 @@ This blog is where I hold onto my thin grip of reality and catalog my notes on p
 
 [Dough Notes](Dough%20Notes.md) General notes on how different ingredients can affect the final dough
 
-[Making the Dough](Making%20the%20Dough.md) A great video guide on making pasta dough
+[Making the Dough](content/0%20Basics/Making%20the%20Dough.md) A great video guide on making pasta dough
 
 ## Doughs
 
