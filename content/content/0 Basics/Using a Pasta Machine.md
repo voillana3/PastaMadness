@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Using a Pasta Machine
+enableToc: true
 tags:
   - basics
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spaghetti with Basil Cream
+enableToc: true
 tags:
   - recipe
 ---

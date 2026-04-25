@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spicy Tomato-Anchovy Butter
+enableToc: true
 tags:
   - recipe
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Slow-Roasted Tomato & Garlic Sauce
+enableToc: true
 tags:
   - sauces
 ---

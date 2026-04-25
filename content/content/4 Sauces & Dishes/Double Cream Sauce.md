@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Double Cream Sauce
+enableToc: true
 tags:
   - sauces
 ---

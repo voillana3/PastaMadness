@@ -4,6 +4,7 @@ aliases:
   - Red Pesto
   - Pesto Rosso
 title: Red Pesto (Pesto Rosso)
+enableToc: true
 tags:
   - sauces
   - pesto

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Whole Wheat Egg Dough
+enableToc: true
 tags:
   - doughs
 ---

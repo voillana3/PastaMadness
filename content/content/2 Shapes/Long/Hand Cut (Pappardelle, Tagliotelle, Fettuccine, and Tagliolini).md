@@ -7,6 +7,7 @@ aliases:
   - Tagliolini
   - Hand Cut
 title: Hand Cut (Pappardelle, Tagliotelle, Fettuccine, and Tagliolini)
+enableToc: true
 tags:
   - long
   - shapes

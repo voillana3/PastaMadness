@@ -1,6 +1,7 @@
 ---
 publish: true
 title: salt
+enableToc: true
 tags:
   - basics
 ---

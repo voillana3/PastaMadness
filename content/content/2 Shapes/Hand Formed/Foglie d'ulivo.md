@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Foglie d'ulivo
+enableToc: true
 tags:
   - shapes
   - handformed

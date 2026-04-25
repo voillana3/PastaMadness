@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Gluten-Free Egg Dough
+enableToc: true
 tags:
   - doughs
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Tomato Sauce with Olives & Fried Capers
+enableToc: true
 tags:
   - sauces
 ---

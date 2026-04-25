@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sausage, Saffron & Fennel Ragu
+enableToc: true
 tags:
   - sauces
 ---

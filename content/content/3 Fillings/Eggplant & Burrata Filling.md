@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Eggplant & Burrata Filling
+enableToc: true
 tags:
   - fillings
 ---

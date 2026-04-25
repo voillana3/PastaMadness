@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Amatriciana Sauce
+enableToc: true
 tags:
   - sauces
 ---

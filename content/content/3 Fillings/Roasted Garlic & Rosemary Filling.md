@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Roasted Garlic & Rosemary Filling
+enableToc: true
 tags:
   - fillings
 ---

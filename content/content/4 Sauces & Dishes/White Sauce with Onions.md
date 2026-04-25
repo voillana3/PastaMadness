@@ -1,6 +1,7 @@
 ---
 publish: true
 title: White Sauce with Onions
+enableToc: true
 tags:
   - sauces
 ---

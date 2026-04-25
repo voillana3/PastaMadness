@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Golden Saffron Sauce
+enableToc: true
 tags:
   - recipe
   - sauces

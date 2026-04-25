@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Citrus & Pistachio Pesto
+enableToc: true
 tags:
   - sauces
   - pesto

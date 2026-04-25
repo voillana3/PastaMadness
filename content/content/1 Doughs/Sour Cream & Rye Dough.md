@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sour Cream & Rye Dough
+enableToc: true
 tags:
   - doughs
 ---

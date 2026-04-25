@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Basic Tomato Sauce
+enableToc: true
 tags:
   - recipe
 ---

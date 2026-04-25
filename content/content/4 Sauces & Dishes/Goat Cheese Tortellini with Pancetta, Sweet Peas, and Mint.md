@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Goat Cheese Tortellini with Pancetta, Sweet Peas, and Mint
+enableToc: true
 tags:
   - recipe
 ---

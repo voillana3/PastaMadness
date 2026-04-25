@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Corzetti della Valpolcevera Dough
+enableToc: true
 tags:
   - doughs
 ---

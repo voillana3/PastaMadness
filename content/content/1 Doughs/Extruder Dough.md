@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Extruder Dough
+enableToc: true
 tags:
   - doughs
 ---

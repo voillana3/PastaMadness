@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Fiery Calabrian Chili Sauce
+enableToc: true
 tags:
   - sauces
 ---

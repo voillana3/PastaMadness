@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cheese & Herb Filling
+enableToc: true
 tags:
   - fillings
 ---

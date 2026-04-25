@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Ragu Bolognese
+enableToc: true
 tags:
   - sauces
 ---

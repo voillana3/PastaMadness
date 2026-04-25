@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Ricotta and Parmesan Gnudi with Sage Brown Butter
+enableToc: true
 tags:
   - recipe
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Capunti
+enableToc: true
 tags:
   - shapes
   - handformed

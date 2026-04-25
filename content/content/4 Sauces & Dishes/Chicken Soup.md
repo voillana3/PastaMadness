@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Chicken Soup
+enableToc: true
 tags:
   - soup
 ---

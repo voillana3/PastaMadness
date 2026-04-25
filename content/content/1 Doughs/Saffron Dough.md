@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Saffron Dough
+enableToc: true
 tags:
   - doughs
 ---

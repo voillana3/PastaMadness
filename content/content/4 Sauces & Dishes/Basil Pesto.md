@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Basil Pesto
+enableToc: true
 tags:
   - sauces
   - pesto

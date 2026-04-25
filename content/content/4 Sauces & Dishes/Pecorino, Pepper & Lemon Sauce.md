@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pecorino, Pepper & Lemon Sauce
+enableToc: true
 tags:
   - recipe
   - sauces

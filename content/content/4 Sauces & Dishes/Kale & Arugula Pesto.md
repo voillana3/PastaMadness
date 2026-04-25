@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Kale & Arugula Pesto
+enableToc: true
 tags:
   - sauces
   - pesto

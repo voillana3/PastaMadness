@@ -1,6 +1,7 @@
 ---
 publish: true
 title: All-Purpose Tomato Sauce with Canned Tomatoes
+enableToc: true
 tags:
   - sauces
 ---

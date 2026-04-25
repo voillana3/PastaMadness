@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Canned Tuna & Tomato Sauce
+enableToc: true
 tags:
   - sauces
 ---

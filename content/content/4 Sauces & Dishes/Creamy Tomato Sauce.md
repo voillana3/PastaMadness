@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Creamy Tomato Sauce
+enableToc: true
 tags:
   - sauces
 ---

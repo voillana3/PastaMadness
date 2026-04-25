@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sujaebi Korean Hand Noodle Soup
+enableToc: true
 tags:
   - recipe
 ---

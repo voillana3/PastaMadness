@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Whole Wheat and Water Dough
+enableToc: true
 tags:
   - doughs
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spicy White Sauce
+enableToc: true
 tags:
   - sauces
 ---

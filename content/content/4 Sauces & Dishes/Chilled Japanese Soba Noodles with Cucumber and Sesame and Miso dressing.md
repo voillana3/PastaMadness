@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Chilled Japanese Soba Noodles with Cucumber and a Sesame and Miso Dressing
+enableToc: true
 tags:
   - recipe
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sweet Potato Gnocchi Dough
+enableToc: true
 tags:
   - doughs
   - gnocchi

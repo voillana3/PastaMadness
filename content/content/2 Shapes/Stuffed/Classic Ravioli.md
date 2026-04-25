@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Classic Ravioli
+enableToc: true
 tags:
   - stuffed
   - shapes

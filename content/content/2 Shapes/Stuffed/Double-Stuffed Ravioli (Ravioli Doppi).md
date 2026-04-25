@@ -4,6 +4,7 @@ aliases:
   - Double-Stuffed Ravioli
   - Ravioli Doppi
 title: Double-Stuffed Ravioli (Ravioli Doppi)
+enableToc: true
 tags:
   - stuffed
   - shapes

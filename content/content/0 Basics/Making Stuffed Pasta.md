@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Making Stuffed Pasta
+enableToc: true
 tags:
   - stuffed
   - basics

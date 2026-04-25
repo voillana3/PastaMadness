@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Caramelized Onion Cheese Sauce
+enableToc: true
 tags:
   - 
 ---

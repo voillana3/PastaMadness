@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Bolognese
+enableToc: true
 tags:
   - sauces
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Colorful Egg Dough
+enableToc: true
 tags:
   - doughs
 ---

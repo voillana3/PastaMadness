@@ -4,6 +4,7 @@ aliases:
   - Butter & Sage Sauce
   - Burro e Salvia
 title: Butter & Sage Sauce (Burro e Salvia)
+enableToc: true
 tags:
   - sauces
 ---

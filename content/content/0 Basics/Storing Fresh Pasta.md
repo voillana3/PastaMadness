@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Storing Fresh Pasta
+enableToc: true
 tags:
   - basics
 ---

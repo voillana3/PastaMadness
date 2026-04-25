@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Butter Sauce
+enableToc: true
 tags:
   - sauces
 ---

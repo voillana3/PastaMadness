@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spizzulus
+enableToc: true
 tags:
   - shapes
   - handformed

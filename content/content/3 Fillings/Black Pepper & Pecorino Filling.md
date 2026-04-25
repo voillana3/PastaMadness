@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Black Pepper & Pecorino Filling
+enableToc: true
 tags:
   - fillings
 ---

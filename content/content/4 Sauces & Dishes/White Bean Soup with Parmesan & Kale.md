@@ -1,6 +1,7 @@
 ---
 publish: true
 title: White Bean Soup with Parmesan & Kale
+enableToc: true
 tags:
   - recipe
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Meyer Lemon & Herb Ricotta Gnocchi Dough
+enableToc: true
 tags:
   - doughs
   - gnocchi

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Homemade Ricotta
+enableToc: true
 tags:
   - recipe
 ---

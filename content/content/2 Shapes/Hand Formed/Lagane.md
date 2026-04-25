@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Lagane
+enableToc: true
 tags:
   - shapes
   - handformed

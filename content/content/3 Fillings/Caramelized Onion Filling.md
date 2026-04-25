@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Caramelized Onion Filling
+enableToc: true
 tags:
   - fillings
 ---

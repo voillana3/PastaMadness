@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sopresine
+enableToc: true
 tags:
   - short
   - shapes

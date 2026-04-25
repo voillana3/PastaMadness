@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Butter & Parmesan Sauce (Alfredo's Alfredo)
+enableToc: true
 tags:
   - sauces
 ---

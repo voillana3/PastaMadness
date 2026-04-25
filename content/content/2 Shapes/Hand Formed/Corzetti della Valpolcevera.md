@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Corzetti della Valpolcevera
+enableToc: true
 tags:
   - handformed
   - shapes

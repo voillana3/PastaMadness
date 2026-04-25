@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Anchovy & Onion Sauce with Breadcrumbs
+enableToc: true
 tags:
   - sauces
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Tomato Broth
+enableToc: true
 tags:
   - sauces
   - soup

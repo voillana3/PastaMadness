@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Alpine Cheese Fondue Filling
+enableToc: true
 tags:
   - fillings
 ---

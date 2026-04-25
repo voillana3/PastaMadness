@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Four-Cheese Filling
+enableToc: true
 tags:
   - fillings
 ---

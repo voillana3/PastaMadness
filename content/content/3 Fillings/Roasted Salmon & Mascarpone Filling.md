@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Roasted Salmon & Mascarpone Filling
+enableToc: true
 tags:
   - fillings
 ---

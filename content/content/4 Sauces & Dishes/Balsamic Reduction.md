@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Balsamic Reduction
+enableToc: true
 tags:
   - sauces
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Butter Poached Lobster (or Shrimp) with Linguine
+enableToc: true
 tags:
   - recipe
 ---

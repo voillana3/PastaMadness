@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Making the Dough
+enableToc: true
 tags:
   - basics
 ---

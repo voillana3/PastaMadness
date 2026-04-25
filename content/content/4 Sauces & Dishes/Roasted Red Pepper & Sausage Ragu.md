@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Roasted Red Pepper & Sausage Ragu
+enableToc: true
 tags:
   - sauces
 ---

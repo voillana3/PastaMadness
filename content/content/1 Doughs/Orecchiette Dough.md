@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Orecchiette Dough
+enableToc: true
 tags:
   - doughs
 ---

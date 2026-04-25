@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Parmesan Broth
+enableToc: true
 tags:
   - sauces
 ---

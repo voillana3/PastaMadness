@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Late-Night Miso Ramen
+enableToc: true
 tags:
   - recipe
 ---

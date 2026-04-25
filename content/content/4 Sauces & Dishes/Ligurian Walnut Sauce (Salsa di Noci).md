@@ -4,6 +4,7 @@ aliases:
   - Ligurian Walnut Sauce
   - Salsa di Noci
 title: Ligurian Walnut Sauce (Salsa di Noci)
+enableToc: true
 tags:
   - sauces
   - pesto

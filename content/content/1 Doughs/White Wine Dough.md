@@ -1,6 +1,7 @@
 ---
 publish: true
 title: White Wine Dough
+enableToc: true
 tags:
   - doughs
 ---

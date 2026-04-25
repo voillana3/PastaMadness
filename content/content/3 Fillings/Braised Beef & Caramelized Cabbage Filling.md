@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Braised Beef & Caramelized Cabbage Filling
+enableToc: true
 tags:
   - fillings
 ---

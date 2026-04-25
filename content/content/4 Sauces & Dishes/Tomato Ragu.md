@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Tomato Ragu
+enableToc: true
 tags:
   - sauces
 ---

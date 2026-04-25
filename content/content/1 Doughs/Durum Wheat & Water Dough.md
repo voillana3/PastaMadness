@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Durum Wheat & Water Dough
+enableToc: true
 tags:
   - doughs
 ---

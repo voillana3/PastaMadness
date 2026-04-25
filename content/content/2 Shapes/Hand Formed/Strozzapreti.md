@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Strozzapreti
+enableToc: true
 tags:
   - shapes
   - handformed

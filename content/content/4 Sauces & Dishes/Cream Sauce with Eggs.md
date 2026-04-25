@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cream Sauce with Eggs
+enableToc: true
 tags:
   - 
 ---

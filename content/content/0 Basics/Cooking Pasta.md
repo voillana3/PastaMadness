@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cooking Pasta
+enableToc: true
 tags:
   - basics
 ---

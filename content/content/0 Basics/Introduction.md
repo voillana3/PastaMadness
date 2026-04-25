@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Introduction
+enableToc: true
 ---
 
 My introduction to fresh pasta was during the first time I was living by myself.  I had moved away from home and was in my own condo in south Florida.  A close friend and her husband went on a trip to Italy and did a pasta class while there.  The photos and instructions she sent back from the class inspired me to try to make some myself.  I was armed with all purpose flour, eggs, and a rolling pin.  Following the instructions, which were no more detailed than an infographic, I made pasta that was entirely too thick and were more like the dumplings from chicken and dumpling than they were spaghetti noodles.  They still tasted good but I knew that I had not done well.  Like many other cooking experiments that one does when they live alone, I appreciated that I had tried and failed, ate the monstrosity anyways because I am too cheap to just throw it away, and did not make a second attempt.  It was not until years later, when living with my then-boyfriend-now-husband, that I tried again.

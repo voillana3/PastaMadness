@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Whipped Ricotta Filling
+enableToc: true
 tags:
   - fillings
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Asparagus, Spring Pea & Mint Filling
+enableToc: true
 tags:
   - fillings
 ---

@@ -4,6 +4,7 @@ aliases:
   - Egg Yolk Ravioli
   - Uovo in Raviolo
 title: Egg Yolk Raviolo (Uovo in Raviolo)
+enableToc: true
 tags:
   - stuffed
   - shapes

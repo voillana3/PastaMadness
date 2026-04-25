@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Toasted Breadcrumbs
+enableToc: true
 tags:
   - recipe
   - component

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Smoky Pumpkin Sauce
+enableToc: true
 tags:
   - 
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Gorgonzola Sauce
+enableToc: true
 tags:
   - sauces
 ---

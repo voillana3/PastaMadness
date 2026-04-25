@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pappardelle with Lemon, Asparagus, and Parmigiano-Reggiano with Poached Eggs
+enableToc: true
 tags:
   - recipe
 ---

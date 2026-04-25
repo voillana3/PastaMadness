@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Scarpinocc
+enableToc: true
 tags:
   - stuffed
   - shapes

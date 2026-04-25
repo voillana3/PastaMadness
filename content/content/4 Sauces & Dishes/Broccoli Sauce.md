@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Broccoli Sauce
+enableToc: true
 tags:
   - sauces
 ---

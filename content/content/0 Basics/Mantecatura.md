@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Mantecatura
+enableToc: true
 tags:
   - basics
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Basil Dough
+enableToc: true
 tags:
   - doughs
 ---

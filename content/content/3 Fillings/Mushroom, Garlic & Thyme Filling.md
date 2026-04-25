@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Mushroom, Garlic & Thyme Filling
+enableToc: true
 tags:
   - fillings
 ---

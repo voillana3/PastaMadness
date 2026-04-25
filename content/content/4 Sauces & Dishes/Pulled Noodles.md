@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pulled Noodles
+enableToc: true
 tags:
   - 
 ---

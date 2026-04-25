@@ -1,6 +1,7 @@
 ---
 publish: true
 title: No-Cook Tomato & Basil Sauce
+enableToc: true
 tags:
   - sauces
 ---

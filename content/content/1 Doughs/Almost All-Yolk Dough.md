@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Almost All-Yolk Dough
+enableToc: true
 tags:
   - doughs
 ---

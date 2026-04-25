@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sage & Hazelnut Pesto
+enableToc: true
 tags:
   - sauces
   - pesto

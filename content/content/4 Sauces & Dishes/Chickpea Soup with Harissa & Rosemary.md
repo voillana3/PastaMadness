@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Chickpea Soup with Harissa & Rosemary
+enableToc: true
 tags:
   - soup
 ---

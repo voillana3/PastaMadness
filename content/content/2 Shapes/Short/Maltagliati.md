@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Maltagliati
+enableToc: true
 tags:
   - shapes
   - short

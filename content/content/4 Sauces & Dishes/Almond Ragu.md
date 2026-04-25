@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Almond Ragu
+enableToc: true
 tags:
   - sauces
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Creamy Garlic Pasta
+enableToc: true
 tags:
   - recipe
 ---

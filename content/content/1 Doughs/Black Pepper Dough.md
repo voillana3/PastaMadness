@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Black Pepper Dough
+enableToc: true
 tags:
   - doughs
 ---

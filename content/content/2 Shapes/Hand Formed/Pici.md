@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pici
+enableToc: true
 tags:
   - shapes
   - handformed

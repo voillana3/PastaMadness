@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Farfalle
+enableToc: true
 tags:
   - short
   - shapes

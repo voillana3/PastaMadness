@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spicy Bread Sauce
+enableToc: true
 tags:
   - sauces
 ---

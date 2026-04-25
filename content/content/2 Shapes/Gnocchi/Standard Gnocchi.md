@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Standard Gnocchi
+enableToc: true
 tags:
   - gnocchi
   - shapes

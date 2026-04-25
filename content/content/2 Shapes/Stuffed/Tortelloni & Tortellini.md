@@ -4,6 +4,7 @@ aliases:
   - Tortelloni
   - Tortellini
 title: Tortelloni & Tortellini
+enableToc: true
 tags:
   - stuffed
   - shapes

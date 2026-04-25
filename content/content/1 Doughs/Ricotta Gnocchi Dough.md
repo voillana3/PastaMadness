@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Ricotta Gnocchi Dough
+enableToc: true
 tags:
   - doughs
   - gnocchi

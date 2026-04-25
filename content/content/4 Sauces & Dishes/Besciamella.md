@@ -3,6 +3,7 @@ publish: true
 aliases:
   - Bechamel
 title: Besciamella
+enableToc: true
 tags:
   - sauces
   - recipe

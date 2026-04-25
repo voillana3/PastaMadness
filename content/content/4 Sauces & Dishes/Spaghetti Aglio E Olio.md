@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spaghetti Aglio e Olio
+enableToc: true
 tags:
   - recipe
 ---

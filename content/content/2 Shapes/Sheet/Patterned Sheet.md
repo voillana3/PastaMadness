@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Patterned Sheet
+enableToc: true
 tags:
   - sheet
   - shapes

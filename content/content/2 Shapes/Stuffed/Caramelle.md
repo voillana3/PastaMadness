@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Caramelle
+enableToc: true
 tags:
   - stuffed
   - shapes

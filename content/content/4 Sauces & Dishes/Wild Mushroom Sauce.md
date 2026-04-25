@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Wild Mushroom Sauce
+enableToc: true
 tags:
   - sauces
 ---

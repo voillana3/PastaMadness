@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Bolognese Ragu Sauce
+enableToc: true
 tags:
   - recipe
 ---

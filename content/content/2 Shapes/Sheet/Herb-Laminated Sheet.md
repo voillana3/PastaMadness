@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Herb-Laminated Sheet
+enableToc: true
 tags:
   - sheet
   - shapes

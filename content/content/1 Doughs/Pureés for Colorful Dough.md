@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pureés for Colorful Dough
+enableToc: true
 tags:
   - doughs
 ---

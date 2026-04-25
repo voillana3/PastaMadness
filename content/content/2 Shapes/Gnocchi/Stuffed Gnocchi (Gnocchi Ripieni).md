@@ -4,6 +4,7 @@ aliases:
   - Stuffed Gnocchi
   - Gnocchi Ripieni
 title: Stuffed Gnocchi (Gnocchi Ripieni)
+enableToc: true
 tags:
   - gnocchi
   - shapes

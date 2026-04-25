@@ -1,6 +1,7 @@
 ---
 publish: true
 title: All-Purpose Tomato Sauce with Fresh Tomatoes
+enableToc: true
 tags:
   - sauces
 ---

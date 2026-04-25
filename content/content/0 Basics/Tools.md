@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Tools
+enableToc: true
 tags:
   - basics
 ---

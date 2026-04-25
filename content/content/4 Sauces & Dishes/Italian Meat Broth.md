@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Italian Meat Broth
+enableToc: true
 tags:
   - sauces
   - soup

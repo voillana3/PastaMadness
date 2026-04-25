@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Making Fillings
+enableToc: true
 tags:
   - basics
 ---

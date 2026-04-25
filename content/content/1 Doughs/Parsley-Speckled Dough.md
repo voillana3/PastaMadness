@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Parsley-Speckled Dough
+enableToc: true
 tags:
   - doughs
 ---

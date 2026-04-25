@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Orecchiette
+enableToc: true
 tags:
   - shapes
   - handformed

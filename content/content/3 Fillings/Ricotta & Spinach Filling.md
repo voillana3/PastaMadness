@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Ricotta & Spinach Filling
+enableToc: true
 tags:
   - fillings
 ---

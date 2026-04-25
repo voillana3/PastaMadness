@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Tomato Cream Sauce
+enableToc: true
 tags:
   - sauces
 ---

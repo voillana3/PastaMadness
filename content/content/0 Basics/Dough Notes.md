@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Dough Notes
+enableToc: true
 tags:
   - doughs
   - basics

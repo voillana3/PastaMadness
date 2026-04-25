@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Heat & Cheese
+enableToc: true
 tags:
   - basics
 ---

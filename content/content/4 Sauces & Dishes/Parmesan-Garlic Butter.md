@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Parmesan-Garlic Butter
+enableToc: true
 tags:
   - recipe
 ---

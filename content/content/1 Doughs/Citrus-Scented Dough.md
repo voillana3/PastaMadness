@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Citrus-Scented Dough
+enableToc: true
 tags:
   - doughs
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Flours
+enableToc: true
 tags:
   - doughs
   - basics

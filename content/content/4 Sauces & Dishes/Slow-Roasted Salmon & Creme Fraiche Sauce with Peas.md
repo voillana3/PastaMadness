@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Slow-Roasted Salmon & Creme Fraiche Sauce with Peas
+enableToc: true
 tags:
   - sauces
 ---

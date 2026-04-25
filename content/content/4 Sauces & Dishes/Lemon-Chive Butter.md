@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Lemon-Chive Butter
+enableToc: true
 tags:
   - recipe
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Garganelli
+enableToc: true
 tags:
   - short
   - shapes

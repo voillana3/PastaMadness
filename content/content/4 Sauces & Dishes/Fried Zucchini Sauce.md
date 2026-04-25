@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Fried Zucchini Sauce
+enableToc: true
 tags:
   - sauces
 ---

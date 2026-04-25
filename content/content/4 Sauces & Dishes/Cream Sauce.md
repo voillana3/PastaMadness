@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cream Sauce
+enableToc: true
 tags:
   - sauces
 ---

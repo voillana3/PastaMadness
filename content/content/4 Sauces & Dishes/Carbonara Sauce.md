@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Carbonara Sauce
+enableToc: true
 tags:
   - sauces
 ---

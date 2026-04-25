@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spicy Garlic & Anchovy Sauce with Broccoli
+enableToc: true
 tags:
   - sauces
 ---

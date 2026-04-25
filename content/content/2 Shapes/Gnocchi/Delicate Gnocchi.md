@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Delicate Gnocchi
+enableToc: true
 tags:
   - gnocchi
   - shapes

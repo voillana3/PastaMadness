@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cavatelli
+enableToc: true
 tags:
   - shapes
   - handformed

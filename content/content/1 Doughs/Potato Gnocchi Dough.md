@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Potato Gnocchi Dough
+enableToc: true
 tags:
   - doughs
   - gnocchi

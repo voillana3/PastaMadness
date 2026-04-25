@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Gluten-Free Flour & Water Dough
+enableToc: true
 tags:
   - doughs
 ---

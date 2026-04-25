@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pasta gialla or Sfoglia gialla (Yellow Pasta)
+enableToc: true
 tags:
   - doughs
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Drover's Sauce
+enableToc: true
 tags:
   - sauces
 ---

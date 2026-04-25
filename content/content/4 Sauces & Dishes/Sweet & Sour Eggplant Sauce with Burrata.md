@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sweet & Sour Eggplant Sauce with Burrata
+enableToc: true
 tags:
   - sauces
 ---

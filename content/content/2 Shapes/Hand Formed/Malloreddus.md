@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Malloreddus
+enableToc: true
 tags:
   - shapes
   - handformed

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pici Dough
+enableToc: true
 tags:
   - doughs
 ---

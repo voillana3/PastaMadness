@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Sausage & Spinach Filling
+enableToc: true
 tags:
   - fillings
 ---

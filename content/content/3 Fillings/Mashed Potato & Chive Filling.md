@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Mashed Potato & Chive Filling
+enableToc: true
 tags:
   - fillings
 ---

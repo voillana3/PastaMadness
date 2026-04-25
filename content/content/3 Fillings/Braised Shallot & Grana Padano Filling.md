@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Braised Shallot & Grana Padano Filling
+enableToc: true
 tags:
   - fillings
 ---

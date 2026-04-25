@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Liquids
+enableToc: true
 tags:
   - basics
   - doughs

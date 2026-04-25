@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Port-Braised Lamb Ragu with Shallots & Rosemary
+enableToc: true
 tags:
   - sauces
 ---

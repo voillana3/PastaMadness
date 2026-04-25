@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Busiate
+enableToc: true
 tags:
   - shapes
   - handformed

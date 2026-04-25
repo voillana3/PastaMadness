@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Winter Squash & Brown Butter Filling
+enableToc: true
 tags:
   - fillings
 ---

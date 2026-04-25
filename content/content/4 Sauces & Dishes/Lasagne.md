@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Lasagne
+enableToc: true
 tags:
   - sheet
   - recipe

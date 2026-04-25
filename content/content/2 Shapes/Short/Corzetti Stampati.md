@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Corzetti Stampati
+enableToc: true
 tags:
   - short
   - shapes

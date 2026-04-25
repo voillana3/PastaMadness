@@ -1,6 +1,7 @@
 ---
 publish: true
-title: The Pasta Madness
+title: Pasta Madness
+enableToc: true
 ---
 
 Welcome to the Madness.  The Pasta Madness.
@@ -25,35 +26,124 @@ This blog is where I hold onto my thin grip of reality and catalog my notes on p
 
 ## Doughs
 
-- [[content/1 Doughs/Pureés for Colorful Dough.md|Pureés for Colorful Dough]]
-- [[content/1 Doughs/Extruder Dough.md|Extruder Dough]]
-- [[Durum Wheat & Water Dough|Durum Wheat & Water Dough]]
-- [[content/1 Doughs/Orecchiette Dough.md|Orecchiette Dough]]
-- [[Soft Wheat and Water Dough|Soft Wheat and Water Dough]]
-- [[content/1 Doughs/Pici Dough.md|Pici Dough]]
+- [[content/1 Doughs/Almost All-Yolk Dough.md|Almost All-Yolk Dough]]
+
+- [[content/1 Doughs/Basil Dough.md|Basil Dough]]
+
+- [[content/1 Doughs/Black Pepper Dough.md|Black Pepper Dough]]
+
+- [[content/1 Doughs/Chestnut Dough.md|Chestnut Dough]]
+
+- [[content/1 Doughs/Citrus-Scented Dough.md|Citrus-Scented Dough]]
+
+- [[content/1 Doughs/Colorful Egg Dough.md|Colorful Egg Dough]]
+
+- [[content/1 Doughs/Colorful Flour & Water Dough.md|Colorful Flour & Water Dough]]
+
 - [[content/1 Doughs/Corzetti della Valpolcevera Dough.md|Corzetti della Valpolcevera Dough]]
-- [[Whole Wheat and Water Dough|Whole Wheat and Water Dough]]
-- [[Basil Dough|Basil Dough]]
-- [[Saffron Dough|Saffron Dough]]
-- [[Standard Egg Dough|Standard Egg Dough]]
-- [[Whole Wheat Egg Dough|Whole Wheat Egg Dough]]
-- [[Almost All-Yolk Dough|Almost All-Yolk Dough]]
-- [[Black Pepper Dough|Black Pepper Dough]]
-- [[Parsley-Speckled Dough|Parsley-Speckled Dough]]
-- [[Sour Cream & Rye Dough|Sour Cream & Rye Dough]]
-- [[Chestnut Dough|Chestnut Dough]]
-- [[Citrus-Scented Dough|Citrus-Scented Dough]]
-- [[content/1 Doughs/Pasta gialla or Sfoglia gialla (Yellow Pasta).md|Pasta gialla or Sfoglia gialla (Yellow Pasta)]]
-- [[White Wine Dough|White Wine Dough]]
-- [[Colorful Flour & Water Dough|Colorful Flour & Water Dough]]
-- [[Colorful Egg Dough|Colorful Egg Dough]]
-- [[Gluten-Free Flour & Water Dough|Gluten-Free Flour & Water Dough]]
-- [[Gluten-Free Egg Dough|Gluten-Free Egg Dough]]
-- [[content/1 Doughs/Ricotta Gnocchi Dough.md|Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Durum Wheat & Water Dough.md|Durum Wheat & Water Dough]]
+
+- [[content/1 Doughs/Extruder Dough.md|Extruder Dough]]
+
+- [[content/1 Doughs/Gluten-Free Egg Dough.md|Gluten-Free Egg Dough]]
+
+- [[content/1 Doughs/Gluten-Free Flour & Water Dough.md|Gluten-Free Flour & Water Dough]]
+
 - [[content/1 Doughs/Meyer Lemon & Herb Ricotta Gnocchi Dough.md|Meyer Lemon & Herb Ricotta Gnocchi Dough]]
-- [[content/1 Doughs/Pumpkin & Ricotta Gnocchi Dough.md|Pumpkin & Ricotta Gnocchi Dough]]
-- [[content/1 Doughs/Potato Gnocchi Dough.md|Potato Gnocchi Dough]]
+
+- [[content/1 Doughs/Orecchiette Dough.md|Orecchiette Dough]]
+
 - [[content/1 Doughs/Ossola-Style Chestnut, Squash, and Potato Dough.md|Ossola-Style Chestnut, Squash, and Potato Dough]]
+
+- [[content/1 Doughs/Parsley-Speckled Dough.md|Parsley-Speckled Dough]]
+
+- [[content/1 Doughs/Pasta gialla or Sfoglia gialla (Yellow Pasta).md|Pasta gialla or Sfoglia gialla (Yellow Pasta)]]
+
+- [[content/1 Doughs/Pici Dough.md|Pici Dough]]
+
+- [[content/1 Doughs/Potato Gnocchi Dough.md|Potato Gnocchi Dough]]
+
+- [[content/1 Doughs/Pumpkin & Ricotta Gnocchi Dough.md|Pumpkin & Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Pureés for Colorful Dough.md|Pureés for Colorful Dough]]
+
+- [[content/1 Doughs/Ricotta Gnocchi Dough.md|Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Saffron Dough.md|Saffron Dough]]
+
+- [[content/1 Doughs/Soft Wheat and Water Dough.md|Soft Wheat and Water Dough]]
+
+- [[content/1 Doughs/Sour Cream & Rye Dough.md|Sour Cream & Rye Dough]]
+
+- [[content/1 Doughs/Standard Egg Dough.md|Standard Egg Dough]]
+
+- [[content/1 Doughs/Sweet Potato Gnocchi Dough.md|Sweet Potato Gnocchi Dough]]
+
+- [[content/1 Doughs/White Wine Dough.md|White Wine Dough]]
+
+- [[content/1 Doughs/Whole Wheat Egg Dough.md|Whole Wheat Egg Dough]]
+
+- [[content/1 Doughs/Whole Wheat and Water Dough.md|Whole Wheat and Water Dough]]
+
+- [[content/1 Doughs/Pureés for Colorful Dough.md|Pureés for Colorful Dough]]
+
+- [[content/1 Doughs/Extruder Dough.md|Extruder Dough]]
+
+- [[Durum Wheat & Water Dough|Durum Wheat & Water Dough]]
+
+- [[content/1 Doughs/Orecchiette Dough.md|Orecchiette Dough]]
+
+- [[Soft Wheat and Water Dough|Soft Wheat and Water Dough]]
+
+- [[content/1 Doughs/Pici Dough.md|Pici Dough]]
+
+- [[content/1 Doughs/Corzetti della Valpolcevera Dough.md|Corzetti della Valpolcevera Dough]]
+
+- [[Whole Wheat and Water Dough|Whole Wheat and Water Dough]]
+
+- [[Basil Dough|Basil Dough]]
+
+- [[Saffron Dough|Saffron Dough]]
+
+- [[Standard Egg Dough|Standard Egg Dough]]
+
+- [[Whole Wheat Egg Dough|Whole Wheat Egg Dough]]
+
+- [[Almost All-Yolk Dough|Almost All-Yolk Dough]]
+
+- [[Black Pepper Dough|Black Pepper Dough]]
+
+- [[Parsley-Speckled Dough|Parsley-Speckled Dough]]
+
+- [[Sour Cream & Rye Dough|Sour Cream & Rye Dough]]
+
+- [[Chestnut Dough|Chestnut Dough]]
+
+- [[Citrus-Scented Dough|Citrus-Scented Dough]]
+
+- [[content/1 Doughs/Pasta gialla or Sfoglia gialla (Yellow Pasta).md|Pasta gialla or Sfoglia gialla (Yellow Pasta)]]
+
+- [[White Wine Dough|White Wine Dough]]
+
+- [[Colorful Flour & Water Dough|Colorful Flour & Water Dough]]
+
+- [[Colorful Egg Dough|Colorful Egg Dough]]
+
+- [[Gluten-Free Flour & Water Dough|Gluten-Free Flour & Water Dough]]
+
+- [[Gluten-Free Egg Dough|Gluten-Free Egg Dough]]
+
+- [[content/1 Doughs/Ricotta Gnocchi Dough.md|Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Meyer Lemon & Herb Ricotta Gnocchi Dough.md|Meyer Lemon & Herb Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Pumpkin & Ricotta Gnocchi Dough.md|Pumpkin & Ricotta Gnocchi Dough]]
+
+- [[content/1 Doughs/Potato Gnocchi Dough.md|Potato Gnocchi Dough]]
+
+- [[content/1 Doughs/Ossola-Style Chestnut, Squash, and Potato Dough.md|Ossola-Style Chestnut, Squash, and Potato Dough]]
+
 - [[content/1 Doughs/Sweet Potato Gnocchi Dough.md|Sweet Potato Gnocchi Dough]]
 
 ## Shapes
@@ -82,5 +172,4 @@ This blog is where I hold onto my thin grip of reality and catalog my notes on p
 - [[content/4 Sauces & Dishes/Spaghetti with Basil Cream.md|Spaghetti with Basil Cream]]
 - [[content/4 Sauces & Dishes/Sujaebi Korean Hand Noodle Soup.md|Sujaebi Korean Hand Noodle Soup]]
 - [[content/4 Sauces & Dishes/Italian Pasta Recipes.md|Italian Pasta Recipes]]
-- [[content/4 Sauces & Dishes/Kitchenaid Pasta.md|Kitchenaid Pasta]]
 - [[content/4 Sauces & Dishes/Lasagna.md|Lasagna]]

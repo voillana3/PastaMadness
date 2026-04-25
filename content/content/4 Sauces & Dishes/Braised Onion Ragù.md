@@ -3,6 +3,7 @@ publish: true
 aliases:
   - Braised Onion Ragu
 title: Braised Onion Ragù
+enableToc: true
 tags:
   - sauces
 ---

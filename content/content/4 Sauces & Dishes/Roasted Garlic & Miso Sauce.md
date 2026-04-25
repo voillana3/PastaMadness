@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Roasted Garlic & Miso Sauce
+enableToc: true
 tags:
   - sauces
 ---

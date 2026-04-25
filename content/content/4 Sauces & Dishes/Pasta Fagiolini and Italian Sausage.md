@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pasta Fagliolini and Italian Sausage
+enableToc: true
 tags:
   - recipe
 ---

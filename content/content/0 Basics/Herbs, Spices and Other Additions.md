@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Herbs, Spices, and Other Additions
+enableToc: true
 tags:
   - doughs
   - basics

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Four-Cheese Sauce (Quattro Formaggi)
+enableToc: true
 tags:
   - sauces
 ---

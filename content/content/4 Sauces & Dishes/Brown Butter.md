@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Brown Butter
+enableToc: true
 tags:
   - sauces
 ---

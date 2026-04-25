@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Corn Broth
+enableToc: true
 tags:
   - sauces
 ---

@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Summer Corn & Basil Filling
+enableToc: true
 tags:
   - fillings
 ---

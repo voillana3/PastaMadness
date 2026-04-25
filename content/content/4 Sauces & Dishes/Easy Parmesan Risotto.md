@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Easy Parmesan Resotto
+enableToc: true
 tags:
   - recipe
 ---

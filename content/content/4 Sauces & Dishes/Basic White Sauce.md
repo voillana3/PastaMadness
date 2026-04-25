@@ -4,6 +4,7 @@ aliases:
   - Salsa Besciamella
   - Bechamel
 title: Basic White Sauce
+enableToc: true
 tags:
   - sauces
 ---

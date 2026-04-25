@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Chestnut Dough
+enableToc: true
 tags:
   - doughs
 ---

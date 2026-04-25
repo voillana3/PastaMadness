@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pasta alla Genovese
+enableToc: true
 tags:
   - recipe
 ---

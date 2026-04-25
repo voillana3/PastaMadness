@@ -1,6 +1,7 @@
 ---
 publish: true
 title: White Fish Ragu with Lemon & Capers
+enableToc: true
 tags:
   - sauces
 ---

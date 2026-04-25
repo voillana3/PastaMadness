@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Cappelletti
+enableToc: true
 tags:
   - stuffed
   - shapes

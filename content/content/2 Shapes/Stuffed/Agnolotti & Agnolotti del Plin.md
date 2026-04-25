@@ -4,6 +4,7 @@ aliases:
   - Agnolotti
   - Agnolotti del Plin
 title: Agnolotti & Agnolotti del Plin
+enableToc: true
 tags:
   - stuffed
   - shapes

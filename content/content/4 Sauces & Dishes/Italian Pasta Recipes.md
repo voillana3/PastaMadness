@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Italian Pasta Recipes
+enableToc: true
 tags:
   - recipe
 ---

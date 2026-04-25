@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Smoked Salmon Filling
+enableToc: true
 tags:
   - fillings
 ---

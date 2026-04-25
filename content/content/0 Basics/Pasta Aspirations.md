@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Pasta Aspirations
+enableToc: true
 tags:
   - extra
 ---

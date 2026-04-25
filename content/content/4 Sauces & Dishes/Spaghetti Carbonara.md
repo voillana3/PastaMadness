@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Spaghetti Carbonara
+enableToc: true
 tags:
   - recipe
 ---

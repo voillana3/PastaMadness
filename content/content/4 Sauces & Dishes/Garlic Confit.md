@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Garlic Confit
+enableToc: true
 tags:
   - recipe
   - component

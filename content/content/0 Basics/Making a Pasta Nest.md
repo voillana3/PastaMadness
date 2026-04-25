@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Making a Pasta Nest
+enableToc: true
 tags:
   - basics
 ---

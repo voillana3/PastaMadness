@@ -4,6 +4,7 @@ aliases:
   - Tomato & Almond Pesto
   - Pesto alla Tapanese
 title: Tomato & Almond Pesto (Pesto alla Trapanese)
+enableToc: true
 tags:
   - sauces
   - pesto

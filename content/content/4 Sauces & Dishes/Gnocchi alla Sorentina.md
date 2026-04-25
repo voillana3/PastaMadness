@@ -1,6 +1,7 @@
 ---
 publish: true
 title: Gnocchi alla Sorrentina
+enableToc: true
 tags:
   - recipe
   - gnocchi
