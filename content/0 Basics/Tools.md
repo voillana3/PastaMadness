@@ -27,22 +27,16 @@ https://romagnolipastatools.com/corzetti/
 
 I have seen videos on youtube of nonnas making pasta dough without measuring any flour.  I have made pasta a lot but am not at that level of mastery yet, and likely neither are you.  A digital scale is very helpful when measuring flour for non-pasta recipes as well.  You can also use it to weigh your drugs.
 
-<<<<<<< Updated upstream:content/content/0 Basics/Tools.md
+
 ![[digitalKitchenScale.png]]
 
-=======
-![[digitalKitchenScale.png]]
->>>>>>> Stashed changes:content/0 Basics/Tools.md
 # Extruder
 
 Some pasta shapes can only be achieved using an extruder. This tool pushed down through a die and then the pasta is cut as it comes out to length. I use a smaller sized extruder from KitchenAid that attaches to the mixer.  Larger extruders can be purchased and would be a good investment if you enjoy making extruded pasta shapes.  More dies can be purchased online.  This website has a lot of options and also explains the difference between them: https://pastidea.com/en/product-category/kitchenaid-pasta-machine-marcato-pasta-machine/
 
-<<<<<<< Updated upstream:content/content/0 Basics/Tools.md
+
 ![[extruder.png]]
 
-=======
-![[extruder.png]]
->>>>>>> Stashed changes:content/0 Basics/Tools.md
 # Ferretto
 
 ^2764a2
@@ -69,22 +63,15 @@ I use the KitchenAid pasta rollers.  You can also get a pasta machine, such as a
 
 A pasta wheel is like a small pizza cutter, but for cutting pasta.  They come with straight and wavy/fluted blades. You can use a paring knife, but a pasta wheel makes trimming the edges around stuffed pasta, such as ravioli, much easier
 
-<<<<<<< Updated upstream:content/content/0 Basics/Tools.md
 ![[PastaWheel.png]]
 
-=======
-![[PastaWheel.png]]
->>>>>>> Stashed changes:content/0 Basics/Tools.md
+
 # Potato Ricer
 
 A potato ricer can be used to crush cooked potato to produce a smooth texture. These can be used to make smooth mashed potatoes, as well as to prep potatoes for use in making gnocchi.
 
-<<<<<<< Updated upstream:content/content/0 Basics/Tools.md
 ![[PotatoRicer.png]]
 
-=======
-![[PotatoRicer.png]]
->>>>>>> Stashed changes:content/0 Basics/Tools.md
 # Rolling pin
 
 For some hand formed pasta, where you want to roll the dough out thickly, the rolling pin works marvelously. I use my pastry rolling pin.  If you have space in your kitchen, you can also get the italian style rolling pin (matarello) which is a long and wide rod that does not have any handles.
@@ -95,8 +82,4 @@ For some hand formed pasta, where you want to roll the dough out thickly, the ro
 
 A spider strainer makes it easy to retrieve pasta from a pot of boiling water as well as to gently put a nest of long noodles into the pot.  Its name comes from the spiderweb design of the wire.  I prefer this tool over colander because a colander requires dumping all the pasta water out.  Several sauces require using the starchy pasta water and sometimes I boil different batches of  noodles.  A spider strainer allows me to keep my pasta water in the pot.
 
-<<<<<<< Updated upstream:content/content/0 Basics/Tools.md
 ![[SpiderStrainer.png]]
-=======
-![[SpiderStrainer.png]]
->>>>>>> Stashed changes:content/0 Basics/Tools.md

@@ -27,17 +27,18 @@ enableToc: true
 
 **Sauces:**
 
-![](Hand%20Cut%20\(Pappardelle,%20Tagliotelle,%20Fettuccine,%20and%20Tagliolini\).png)
 
-MAKE THE DOUGH
+![[Hand Cut (Pappardelle, Tagliotelle, Fettuccine, and Tagliolini).png]]
+
+**MAKE THE DOUGH**
 
 Make your pasta dough of choice and let it rest, tightly covered, at room temperature for 30 minutes. To make “straw and hay” tagliatelle (paglia e fieno), make a half batch of Standard Egg Pasta Dough and a half batch of Green Colorful Egg Pasta Dough.
 
-SET UP YOUR WORKSPACE
+**SET UP YOUR WORKSPACE**
 
 Dust a sheet pan with semolina or line it with a dry dishcloth. Gather your tools and set up your pasta machine.
 
-SHEET THE DOUGH
+**SHEET THE DOUGH**
 
 Roll a quarter of your pasta dough into a sheet.
 
@@ -53,7 +54,7 @@ DRY THE SHEET (A LITTLE)
 
 Let the sheet dry for about 10 minutes per side, or until the surface feels leathery and doesn’t stick to your hands, work surface, or itself when folded over and pressed (but is still pliable). In the meantime, roll out another sheet if you have the space.
 
-CUT THE PASTA
+**CUT THE PASTA**
 
 Dust both sides of the sheet with 00 or all-purpose flour, spreading it around and removing any excess. If making tagliolini, generously sprinkle the top with semolina, too.
 
@@ -73,9 +74,10 @@ Slide the blade of the knife under the pasta so its spine is directly under the 
 
 Gently shake out the strands to separate them, then lay them across the prepared sheet pan. Dust the pasta with semolina flour and spread the strands out a little if using right away, or form them into nests if storing for future use. Repeat with the remaining dough.
 
-COOK THE PASTA
+**COOK THE PASTA**
 
 Cook the pasta until tender but still with some bite, 2 to 3 minutes, depending on the shape, thickness, and drying time.
 
-![](content/assets/Hand Cut.png)
-![](content/assets/Hand Cut2.png)
+![[Hand Cut.png]]
+
+![[Hand Cut2.png]]

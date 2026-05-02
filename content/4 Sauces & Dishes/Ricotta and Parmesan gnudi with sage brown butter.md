@@ -33,8 +33,4 @@ When you’re ready to cook the gnudi, bring a saucepan of salted water to the b
 
 Carefully place the gnudi in the boiling water with a slotted spoon, making sure they don’t stick to the bottom of the pan, and cook them for about 2 minutes until they rise to the surface (like gnocchi). As soon as they do this, scoop them out of the pan (you don’t need to drain them in a sieve – this may result in the gnudi bursting) and serve them drizzled with the browned sage butter, with a spritz of lemon zest on top and extra Parmesan if you like.
 
-<<<<<<< Updated upstream:content/content/4 Sauces & Dishes/Ricotta and Parmesan gnudi with sage brown butter.md
 ![[RicottaGnudi.png]]
-=======
-![[RicottaGnudi.png]]
->>>>>>> Stashed changes:content/4 Sauces & Dishes/Ricotta and Parmesan gnudi with sage brown butter.md
